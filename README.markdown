@@ -8,5 +8,5 @@ released under the LGPL
 
 Contributors
 ------------
-Pat Eyler
-Ian Smith-Heisters
+* Pat Eyler
+* Ian Smith-Heisters
